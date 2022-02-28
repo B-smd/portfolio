@@ -11,7 +11,7 @@ In this portfolio I would like to display my best work, also to let people know 
 
 
 ## Live Link
-hhtps://github.com/B-smd/portfolio.git
+ https://b-smd.github.io/portfolio/
 
 "https://picsum.photos/1000/500" 
 
